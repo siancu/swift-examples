@@ -1,0 +1,3 @@
+[submodule "SwiftJSONShootout"]
+	path = SwiftJSONShootout
+	url = https://github.com/sammyd/SwiftJSONShootout
